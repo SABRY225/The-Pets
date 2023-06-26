@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/The-Pets/static/css/main.b81ec7ec.css",
+    "main.js": "/The-Pets/static/js/main.d795d467.js",
+    "static/js/787.856a2c82.chunk.js": "/The-Pets/static/js/787.856a2c82.chunk.js",
+    "index.html": "/The-Pets/index.html",
+    "main.b81ec7ec.css.map": "/The-Pets/static/css/main.b81ec7ec.css.map",
+    "main.d795d467.js.map": "/The-Pets/static/js/main.d795d467.js.map",
+    "787.856a2c82.chunk.js.map": "/The-Pets/static/js/787.856a2c82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b81ec7ec.css",
+    "static/js/main.d795d467.js"
+  ]
+}
